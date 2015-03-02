@@ -1,3 +1,1 @@
-https://fathomless-garden-7729.herokuapp.com/
-
-https://codeclimate.com/github/nipakoo/ratebeerClean
+https://tranquil-scrubland-8114.herokuapp.com/
